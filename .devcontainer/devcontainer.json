@@ -1,0 +1,4 @@
+{
+    "name": "Python 3 - Gradio",
+    "image": "mcr.microsoft.com/devcontainers/python:2-3.14-trixie"
+}
